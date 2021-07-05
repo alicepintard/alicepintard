@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alicepintard
+- 👀 I’m interested in foreign language teaching and in natural language processing.
+- 📫 How to reach me : alice.pintard@uclouvain.be
